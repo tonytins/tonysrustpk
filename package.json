@@ -1,0 +1,22 @@
+{
+  "name": "netstdiopk",
+  "displayName": "Tony's Rust Pack",
+  "description": "My Rust extension pack for VSCode.",
+  "publisher": "tonytins",
+  "repository": {
+    "url": "https://github.com/tonytins/tonysrustpk"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "rust-lang.rust",
+    "panicbit.cargo",
+    "bungcip.better-tomls",
+    "swellaby.vscode-rust-test-adapter"
+  ]
+}

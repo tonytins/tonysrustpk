@@ -1,0 +1,1 @@
+To install, go to the Extensions tab, select the hanburger menu, and click "Install from VSIX"
